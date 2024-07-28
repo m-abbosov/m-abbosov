@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on [MyTab](https://mytab.uz/)
 
-- 🌱 I’m currently learning **Node.js, MongoDB**
+- 🌱 I’m currently learning **Node.js, MongoDB, English**
 
 - 👨‍💻 All of my projects are available at [https://abbosov.uz/](https://abbosov.uz/)
 
