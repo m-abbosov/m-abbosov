@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Node.js, MongoDB, English**
 
-- 👨‍💻 All of my projects are available at [https://abbosov.uz/](https://abbosov.uz/)
+- 👨‍💻 All of my projects are available at [abbosov.uz/](https://abbosov.uz/)
 
 - 📝 I regularly write articles on [TG Channel](t.me/abbosov_blog)
 
