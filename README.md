@@ -19,7 +19,7 @@
 
 - 📫 How to reach me **m.abbbosov@gmail.com**
 
-- 📄 Know about my experiences [https://api.abbosov.uz/media/my_cv/Resume_-_Muhammadamin_Abbosov.pdf](https://api.abbosov.uz/media/my_cv/Resume_-_Muhammadamin_Abbosov.pdf)
+- 📄 Know about my experiences [Resume](https://api.abbosov.uz/media/my_cv/Resume_-_Muhammadamin_Abbosov.pdf)
 
 - ⚡ Fun fact **I think I'm very curious**
 
