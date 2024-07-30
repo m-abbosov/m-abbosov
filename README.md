@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at [https://abbosov.uz/](https://abbosov.uz/)
 
-- 📝 I regularly write articles on [t.me/abbosov_blog](t.me/abbosov_blog)
+- 📝 I regularly write articles on [TG Channel](t.me/abbosov_blog)
 
 - 💬 Ask me about **react.js, react native, next.js**
 
