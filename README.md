@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/_abbosov_" target="blank"><img src="https://img.shields.io/twitter/follow/_abbosov_?logo=twitter&style=for-the-badge" alt="_abbosov_" /></a> </p>
 
-- 🔭 I’m currently working on [MyTab](https://mytab.uz/) and [Cheeff.uz](https://cheeff.uz/)
+- 🔭 I’m currently working on Agrobank ATB
 
 - 🌱 I’m currently learning **Node.js, MongoDB, English**
 
